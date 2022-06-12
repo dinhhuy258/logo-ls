@@ -5,8 +5,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Yash-Handa/logo-ls/assets"
-	"github.com/Yash-Handa/logo-ls/internal/api"
+	"github.com/dinhhuy258/logo-ls/assets"
+	"github.com/dinhhuy258/logo-ls/internal/api"
 )
 
 func mainSort(a, b string) bool {

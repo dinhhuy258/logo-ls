@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/Yash-Handa/logo-ls/internal/sysState"
+	"github.com/dinhhuy258/logo-ls/internal/sysState"
 	"github.com/pborman/getopt/v2"
 	"golang.org/x/crypto/ssh/terminal"
 )

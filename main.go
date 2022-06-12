@@ -8,11 +8,11 @@ import (
 	"runtime"
 	"sort"
 
-	"github.com/Yash-Handa/logo-ls/assets"
-	"github.com/Yash-Handa/logo-ls/internal/api"
-	"github.com/Yash-Handa/logo-ls/internal/ctw"
-	"github.com/Yash-Handa/logo-ls/internal/dir"
-	"github.com/Yash-Handa/logo-ls/internal/sysState"
+	"github.com/dinhhuy258/logo-ls/assets"
+	"github.com/dinhhuy258/logo-ls/internal/api"
+	"github.com/dinhhuy258/logo-ls/internal/ctw"
+	"github.com/dinhhuy258/logo-ls/internal/dir"
+	"github.com/dinhhuy258/logo-ls/internal/sysState"
 	"github.com/mattn/go-colorable"
 )
 

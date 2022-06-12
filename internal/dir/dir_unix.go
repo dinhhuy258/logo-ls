@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/Yash-Handa/logo-ls/internal/api"
+	"github.com/dinhhuy258/logo-ls/internal/api"
 )
 
 func dirBlocks(info *file, fi os.FileInfo) {

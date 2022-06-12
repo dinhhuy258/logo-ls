@@ -86,7 +86,7 @@ nfpms:
   - 
     file_name_template: '{{ .ProjectName }}_{{ .Arch }}{{ if .Arm }}v{{ .Arm }}{{ end }}'
     package_name: logo-ls
-    homepage: https://github.com/Yash-Handa/logo-ls
+    homepage: https://github.com/dinhhuy258/logo-ls
     description: ls command with icons and git integration. Written in Golang
     maintainer: Yash Handa <yashhanda7@yahoo.com>
     license: MIT
