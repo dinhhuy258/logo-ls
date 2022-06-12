@@ -23,6 +23,10 @@ func (i *Icon_Info) GetColor(f uint8) string {
 	return fmt.Sprintf("\033[38;2;%03d;%03d;%03dm", i.c[0], i.c[1], i.c[2])
 }
 
+func (i *Icon_Info) GetHexColor() string {
+  return fmt.Sprintf("#%02x%02x%02x", i.c[0], i.c[1], i.c[2])
+}
+
 func (i *Icon_Info) MakeExe() {
 	i.e = true
 }
